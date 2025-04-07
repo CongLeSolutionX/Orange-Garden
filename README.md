@@ -322,7 +322,7 @@ graph TD
 
 ```bash
 # TODO: Update GitHub clone URL
-git clone https://github.com/YourGitHubUsername/OrangeGarden.git
+git clone https://github.com/CongLeSolutionX/OrangeGarden.git
 cd OrangeGarden
 ```
 
@@ -362,6 +362,10 @@ Explore California government information on the go! We offer the **Orange Garde
 
 Your contributions can help `Orange Garden` flourish into an even more comprehensive and helpful resource! We welcome additions, corrections, and improvements.
 
+We'r working on setting up this section. TBD
+
+
+<!-- 
 **How to Contribute:**
 
 1.  **Take a Cutting (Fork):** Create your own copy (fork) of the `OrangeGarden` repository.
@@ -380,7 +384,7 @@ Your contributions can help `Orange Garden` flourish into an even more comprehen
 
 *   **Translators:** We are actively seeking contributors fluent in **Vietnamese** (and other languages later) to help translate existing diagrams and explanations. If you can help bridge the language gap, your contribution would be invaluable! Please look for issues tagged 'translation' or propose translations via PRs.
 
-*Please keep contributions informative and neutral. A formal Code of Conduct and detailed `CONTRIBUTING.md` are planned.*
+*Please keep contributions informative and neutral. A formal Code of Conduct and detailed `CONTRIBUTING.md` are planned.* -->
 
 ---
 
